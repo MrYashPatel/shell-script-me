@@ -1,0 +1,8 @@
+# GitHub
+GITHUB_TOKEN=Your github token here
+GITHUB_TOKEN_EXPIRY=Expiry date YYYY-mm-DD and NE if not expiry
+
+# Docker
+DOCKER_TOKEN=Your PAT here
+DOCKER_TOKEN_EXPIRY=Expiry date YYYY-mm-DD and NE if not expiry
+DOCKER_USERNAME=Docker Username
